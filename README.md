@@ -1,0 +1,2 @@
+# SlotsTcpServer
+python Tcp Server
